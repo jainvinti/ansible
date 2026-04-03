@@ -1,3 +1,0 @@
----
-# Amazon Linux 2 / RHEL family: "nginx"; Debian/Ubuntu: "nginx"
-nginx_service_name: nginx
